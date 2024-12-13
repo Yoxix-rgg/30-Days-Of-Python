@@ -1,0 +1,19 @@
+#Día 2. Variables
+
+print("Hi")
+
+print("num_int")
+num_int=[-3,-2, 1, 0, 1, 2, 3 ]
+print(num_int)
+
+print('num_float')
+num_float=[-3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ]
+
+print(num_float)
+
+print('strings')
+strings= ['1 + j', '2 + 4j', '1 - 1j']
+
+print(strings[0])
+
+print(num_int[3:5])
