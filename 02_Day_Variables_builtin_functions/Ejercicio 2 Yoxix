@@ -1,4 +1,4 @@
-#Día 2. Variables Yoxix
+#Día 2. Variables -30 days of Python programming- Yoxix
 
 print("Hi")
 
@@ -17,3 +17,25 @@ strings= ['1 + j', '2 + 4j', '1 - 1j']
 print(strings[0])
 
 print(num_int[3:5])
+
+#Ejercicio
+
+#Ejercicio
+
+primer_variable = "Yoxix "
+segunda_variable = "Gracia"
+full_name = primer_variable + segunda_variable
+
+country = "México"
+city = "Pachuca de Soto"
+age = 26
+year = 2024
+
+estado_civil = str(input(" Estado_civil"))
+
+print (full_name)
+print (estado_civil,
+        country, 
+          city, 
+           age, 
+            year)
